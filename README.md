@@ -41,6 +41,8 @@ Una vez conseguido el generado el archivo KML, se debe subir en google maps, en 
 Las contribuciones son bienvenidas. Puedes enviar pull requests o reportar problemas en la sección de Issues.
 
 
+
+
 # English
 
 # NetTracker
