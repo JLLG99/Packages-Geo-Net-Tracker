@@ -66,19 +66,19 @@ You can install the necessary libraries by running:
 bash:
 `pip install dpkt pygeoip`
 
-##GeoIP Configuration
+## GeoIP Configuration
 The project requires the GeoLiteCity.dat database, which can be obtained from [here](https://github.com/mbcc2006/GeoLiteCity-data).
 Once downloaded, place the file in the same directory as NetTracker.py, along with all additional files.
 
 When you run the script, it will prompt you to select a PCAP file and will then generate the test.kml document.
 
-##KMLTester.py
+## KMLTester.py
 This script verifies the validity of KML files and can be used to check generated results or make manual modifications.
 
-##Google Maps
+## Google Maps
 Once the KML file is generated, you can upload it to Google Maps under the IMPORT option to visualize the trace of packets sent from the test address.
 
-##Contributions
+## Contributions
 Contributions are welcome. You can submit pull requests or report issues in the Issues section.
 
 
